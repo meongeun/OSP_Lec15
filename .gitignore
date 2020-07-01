@@ -1,0 +1,13 @@
+__pycache__
+.ipynb_checkpoints
+
+*.npy
+*.pkl
+*.log
+*.out
+*.swp
+*.pyc
+*.png
+*.csv
+
+
